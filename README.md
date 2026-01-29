@@ -20,17 +20,11 @@
 
 <div align="center">
 
-## Tech Stack
+## Languages
 
 <br/>
 
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=rust,c,lua,js,nodejs,php,python,bash&theme=dark&perline=8"/>
-
-<br/><br/>
-
-<!-- Tools & Technologies -->
-<img src="https://skillicons.dev/icons?i=linux,nginx,mysql,mongodb,docker,git,discord,vscode&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,rust,lua,js,nodejs&theme=dark&perline=5"/>
 
 </div>
 
