@@ -1,25 +1,22 @@
 <div align="center">
 
 <!-- Animated Header -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=JSInvasor&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=being%20better%20is%20a%20curse...%20%40JSInvasor&descAlignY=55&descSize=18"/>
 
-<!-- Typing Animation -->
-
+<!-- Glitch Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Security+Research+%7C+Low-Level+Development;Building+Secure+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Justice+Has+No+Tongue;J%C5%B1%24t%C4%B1c%C3%A9+H%C3%A4s+N%C3%B8+T%C3%B8ngu%C3%A9;%E2%96%88%E2%96%93%E2%96%92%E2%96%91+ERROR+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;Justice+Has+No+Tongue" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Followers -->
-
 <img src="https://komarev.com/ghpvc/?username=JSInvasor&style=for-the-badge&color=161b22&labelColor=0d1117&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/JSInvasor?style=for-the-badge&color=161b22&labelColor=0d1117&label=FOLLOWERS"/>
 
 </div>
 
------
+---
 
 <div align="center">
 
@@ -29,7 +26,7 @@
 
 </div>
 
------
+---
 
 <div align="center">
 
@@ -90,25 +87,10 @@
 </p>
 
 </td>
-<td width="50%">
-
-<h3 align="center">HyperShot Framework</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=for-the-badge&labelColor=0d1117"/>
-</p>
-<p align="center">
-  Advanced game modification framework with modular architecture, featuring ESP systems, aim assistance, and visual enhancements.
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white"/>
-</p>
-
-</td>
 </tr>
 </table>
 
------
+---
 
 <div align="center">
 
@@ -117,18 +99,16 @@
 <br/>
 
 <!-- Programming Languages -->
-
 <img src="https://skillicons.dev/icons?i=rust,c,lua,js,nodejs,php,python,bash&theme=dark&perline=8"/>
 
 <br/><br/>
 
 <!-- Tools & Technologies -->
-
 <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,mongodb,docker,git,discord,vscode&theme=dark&perline=8"/>
 
 </div>
 
------
+---
 
 <div align="center">
 
@@ -145,27 +125,7 @@
 
 </div>
 
------
-
-<div align="center">
-
-## Skills
-
-<br/>
-
-<img src="https://img.shields.io/badge/Network_Security-Expert-ff0000?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Reverse_Engineering-Advanced-ff6600?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/System_Programming-Advanced-ffcc00?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Web_Security-Expert-00ff00?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Infrastructure-Production-00ccff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/API_Development-Expert-9933ff?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
------
+---
 
 <div align="center">
 
@@ -188,7 +148,7 @@ being better is a curse... @JSInvasor
 
 </div>
 
------
+---
 
 <div align="center">
 
